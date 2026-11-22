@@ -16,7 +16,7 @@
 
 ---
 
-## 👩‍💻 About This Repository
+##  About This Repository
 
 Welcome to my **Experiment Lab Repository**!
 
@@ -54,7 +54,7 @@ Experiment-Lab/
 └── README.md
 ```
 
-## 🧪 Experiment Index
+##  Experiment Index
 
 Explore the experiments below:
 
@@ -107,7 +107,7 @@ This repository reflects a continuous process of learning, implementing, testing
 ---
 
 <p align="center">
-  <b>🚀 CODE. EXPERIMENT. LEARN. REPEAT.</b>
+  <b> CODE. EXPERIMENT. LEARN. REPEAT.</b>
   <br/><br/>
   <i>Built with curiosity and a passion for learning.</i>
 </p>
